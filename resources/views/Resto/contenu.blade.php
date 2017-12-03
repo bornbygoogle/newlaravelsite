@@ -388,7 +388,7 @@
          </div>
       </div>
       <div class="row msg-row">
-         <div class="col-md-4 col-sm-4 mr-15">
+         <div class="col-md-6 col-sm-6 mr-15">
             <div class="media-2">
                <div class="media-left">
                   <div class="contact-phone bg-1 text-center"><span class="phone-in-talk fa fa-phone"></span></div>
@@ -397,6 +397,12 @@
                   <h4 class="dark-blue regular">Phone Numbers</h4>
                   <p class="light-blue regular alt-p">+33 4 78 57 52 14 - <span class="contacts-sp">Phone Booking</span></p>
                </div>
+            </div>
+            <div class="media-2">
+            </div>
+         </div>
+         <div class="col-md-6 col-sm-6">
+            <div class="media-2">
             </div>
             <div class="media-2">
                <div class="media-left">
@@ -409,9 +415,7 @@
                   </p>
                </div>
             </div>
-         </div>
-         <div class="col-md-8 col-sm-8">
-            <form action="" method="post" role="form" class="contactForm">
+            <!--form action="" method="post" role="form" class="contactForm">
                <div id="sendmessage">Your booking request has been sent. Thank you!</div>
                <div id="errormessage"></div>
                <div class="col-md-6 col-sm-6 contact-form pad-form">
@@ -461,7 +465,7 @@
                      <button class="contacts-btn">R&eacute;server</button>
                   </div>
                </div>
-            </form>
+            </form-->
          </div>
       </div>
    </div>

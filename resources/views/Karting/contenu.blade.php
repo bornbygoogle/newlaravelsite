@@ -98,7 +98,7 @@
             <img src="{{ URL::asset('img/karting/iphone.png') }}" alt="">
          </figure-->
          <div class="col-lg-12 col-sm-8 featured-work">
-            <h2>partenariat</h2>
+            <h2>sponsors</h2>
             <P class="padding-b">Notre association qui s'est donnée pour mission d'évoluer Quentin - notre fils - dans le pilotage du karting. Nous utiliserons de la meilleure façon possible votre don.
 Nous pouvons déjà vous dire avec certitude que votre don permettra d'équiper certainement ses pneus de compétition.</P>
             <div class="featured-box">
@@ -106,8 +106,8 @@ Nous pouvons déjà vous dire avec certitude que votre don permettra d'équiper 
                <i class="fa-magic"></i>
             </div>
             <div class="featured-box-col2 wow fadeInRight delay-02s">
-               <h3>1er partenaire</h3>
-               <p>Un mot pour le partenaire</p>
+               <h3>1er sponsor</h3>
+               <p>Un mot pour le sponsor</p>
             </div>
          </div>
          <div class="featured-box">
@@ -115,8 +115,8 @@ Nous pouvons déjà vous dire avec certitude que votre don permettra d'équiper 
                <i class="fa-gift"></i>
             </div>
             <div class="featured-box-col2 wow fadeInRight delay-04s">
-               <h3>2e partenaire</h3>
-               <p>Un mot pour le partenaire</p>
+               <h3>2e sponsor</h3>
+               <p>Un mot pour le sponsor</p>
             </div>
          </div>
          <div class="featured-box">
@@ -124,8 +124,8 @@ Nous pouvons déjà vous dire avec certitude que votre don permettra d'équiper 
                <i class="fa-dashboard"></i>
             </div>
             <div class="featured-box-col2 wow fadeInRight delay-06s">
-               <h3>3e partenaire</h3>
-               <p>Un mot pour le partenaire</p>
+               <h3>3e sponsor</h3>
+               <p>Un mot pour le sponsor</p>
             </div>
          </div>
          <div class="featured-box">
@@ -133,8 +133,8 @@ Nous pouvons déjà vous dire avec certitude que votre don permettra d'équiper 
                <i class="fa-dashboard"></i>
             </div>
             <div class="featured-box-col2 wow fadeInRight delay-06s">
-               <h3>4e partenaire</h3>
-               <p>Un mot pour le partenaire</p>
+               <h3>4e sponsor</h3>
+               <p>Un mot pour le sponsor</p>
             </div>
          </div>
          <div class="featured-box">
@@ -142,8 +142,8 @@ Nous pouvons déjà vous dire avec certitude que votre don permettra d'équiper 
                <i class="fa-dashboard"></i>
             </div>
             <div class="featured-box-col2 wow fadeInRight delay-06s">
-               <h3>5e partenaire</h3>
-               <p>Un mot pour le partenaire</p>
+               <h3>5e sponsor</h3>
+               <p>Un mot pour le sponsor</p>
             </div>
          </div>
          <div class="featured-box">
@@ -151,8 +151,8 @@ Nous pouvons déjà vous dire avec certitude que votre don permettra d'équiper 
                <i class="fa-dashboard"></i>
             </div>
             <div class="featured-box-col2 wow fadeInRight delay-06s">
-               <h3>6e partenaire</h3>
-               <p>Un mot pour le partenaire</p>
+               <h3>6e sponsor</h3>
+               <p>Un mot pour le sponsor</p>
             </div>
          </div>
          <!--a class="Learn-More" href="#">Learn More</a-->
@@ -218,7 +218,7 @@ Nous pouvons déjà vous dire avec certitude que votre don permettra d'équiper 
       <b class="quote-right wow fadeInDown delay-03"><i class="fa-quote-right"></i></b>
       <div class="row">
          <div class="col-lg-12">
-            <p class="client-part-haead wow fadeInDown delay-05">Moi et mon équipe, nous vous remercions de tout notre cœur et ne manquerons pas de vous communiquer le bilan annuel que nous adressons à tous nos généreux donateurs.<br>Encore merci pour votre générosité.</p>
+            <p class="client-part-haead wow fadeInDown delay-05">Mon équipe et moi, nous vous remercions de tout notre cœur et ne manquerons pas de vous communiquer le bilan annuel que nous adressons à tous nos généreux donateurs.<br>Encore merci pour votre générosité.</p>
          </div>
       </div>
       <ul class="client wow fadeIn delay-05s">
@@ -257,7 +257,7 @@ Nous pouvons déjà vous dire avec certitude que votre don permettra d'équiper 
             </div>
             <h3 class="wow fadeInDown delay-03s">Yannick Morlet</h3>
             <span class="wow fadeInDown delay-03s">P&egrave;re<br>Fondateur</span>
-            <p class="wow fadeInDown delay-03s">Un mot pour Quentin ou les partenaires</p>
+            <p class="wow fadeInDown delay-03s">Un mot pour Quentin ou les sponsors</p>
          </div>
          <div class="team-leader-box">
             <div class="team-leader  wow fadeInDown delay-06s">
@@ -266,7 +266,7 @@ Nous pouvons déjà vous dire avec certitude que votre don permettra d'équiper 
             </div>
             <h3 class="wow fadeInDown delay-06s">Gaelle Morlet</h3>
             <span class="wow fadeInDown delay-06s">M&egrave;re<br>Co-Fondateur</span>
-            <p class="wow fadeInDown delay-06s">Un mot pour Quentin ou les partenaires</p>
+            <p class="wow fadeInDown delay-06s">Un mot pour Quentin ou les sponsors</p>
          </div>
          <div class="team-leader-box">
             <div class="team-leader wow fadeInDown delay-09s">
@@ -275,7 +275,7 @@ Nous pouvons déjà vous dire avec certitude que votre don permettra d'équiper 
             </div>
             <h3 class="wow fadeInDown delay-09s">Dylan Morlet</h3>
             <span class="wow fadeInDown delay-09s">Fr&egrave;re</span>
-            <p class="wow fadeInDown delay-09s">Un mot pour Quentin ou les partenaires</p>
+            <p class="wow fadeInDown delay-09s">Un mot pour Quentin ou les sponsors</p>
          </div>
          <div class="team-leader-box">
             <div class="team-leader wow fadeInDown delay-12s">
@@ -284,7 +284,7 @@ Nous pouvons déjà vous dire avec certitude que votre don permettra d'équiper 
             </div>
             <h3 class="wow fadeInDown delay-09s">Gabriel Morlet</h3>
             <span class="wow fadeInDown delay-09s">Fr&egrave;re</span>
-            <p class="wow fadeInDown delay-09s">Un mot pour Quentin ou les partenaires</p>
+            <p class="wow fadeInDown delay-09s">Un mot pour Quentin ou les sponsors</p>
          </div>
       </div>
    </div>
